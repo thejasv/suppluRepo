@@ -1,0 +1,7 @@
+INFO  06:27:27 Application started. Press Ctrl+C to shut down.
+INFO  06:27:27 Hosting environment: Development
+INFO  06:27:27 Content root path: D:\safe\PharmacyMedicineSupplyService
+INFO  06:30:35 Pharmacies Data retrieved
+INFO  06:30:35 Retrieved data from medicine stock service
+INFO  06:30:35 Medicines have been successfully supplied to the pharmacies
+INFO  06:30:35 Pharmacy supply details successfully retrieved and sent.
